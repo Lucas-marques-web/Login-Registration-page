@@ -8,11 +8,11 @@ This project is a login and registration example forms without functionality whi
 * JavaScript: A programming language used to create interactive web applications.
 
 ## Installation
-Clone the repository
-Navigate to the project directory 
-Right Click on the index.html element 
-Copy path and go to the Browser (google,edge,etc)
-Paste on the tab search
+1 Clone the repository
+2 Navigate to the project directory 
+3 Right Click on the index.html element 
+4 Copy path and go to the Browser (google,edge,etc)
+5 Paste on the tab search
 
 ## View Project
 Explore the Login and Registration page:
